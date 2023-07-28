@@ -5,7 +5,7 @@
 
 
 <p align="left">
-Actualmente estoy cursando el Miracle Labs dictado por la empresa Miracle Devs y aprendiendo Javascript, Typescript y React por mi cuenta. El en mediano plazo voy a empezar una tecnicatura de sofware y en el corto plazo recibirme de Piloto Comercial de Helicópteros, actualmente soy Piloto Privado de Helicóptero y Piloto Privado de Avión.
+Actualmente estoy cursando el Miracle Labs dictado por la empresa Miracle Devs y aprendiendo Javascript, TypeScript y React por mi cuenta. El en mediano plazo voy a empezar una tecnicatura de sofware y en el corto plazo recibirme de Piloto Comercial de Helicópteros, actualmente soy Piloto Privado de Helicóptero y Piloto Privado de Avión.
 </p>
 <br>
   
