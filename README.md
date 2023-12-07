@@ -1,8 +1,6 @@
-#¡Hola! Soy Arón Díaz:
-tengo 23 años y me gusta desempeñarme como Frontend.
+¡Hola! Soy Arón Díaz tengo 23 años.
 
-Me encuentro desarrollando aplicaciones en entornos controlados junto a un equipo, en constante aprendizaje con nuevos desafíos y tecnologías.
-Estoy especializándome y afianzando conocimientos en el área del Frontend constantemente.
+Actualmente me encuentro aprendiendo y mejorando mis bases en la programación con JavaScript de manera autodidacta, el próximo año voy a empezar una tecnicatura realacionada a la programación.
 
 Además soy Piloto Privado de Helicópteros y de Avión, actualmente realizando el curso para la licencia comercial.
 
