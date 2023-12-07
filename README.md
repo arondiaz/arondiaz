@@ -1,6 +1,8 @@
 ¡Hola! Soy Arón Díaz tengo 23 años.
 
-Actualmente me encuentro aprendiendo y mejorando mis bases en la programación con JavaScript de manera autodidacta, el próximo año voy a empezar una tecnicatura realacionada a la programación.
+Actualmente me encuentro aprendiendo y mejorando mis bases en la programación con JavaScript de manera autodidacta, el próximo año voy a empezar una tecnicatura relacionada a la programación.
+Tengo conocimientos en HTML, CSS, JavaScript, React, Next.js, Tailwind, SASS.
+Visita mi web personal: https://arondiaz.vercel.app/
 
 Además soy Piloto Privado de Helicópteros y de Avión, actualmente realizando el curso para la licencia comercial.
 
