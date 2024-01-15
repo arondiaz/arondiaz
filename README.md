@@ -1,6 +1,6 @@
 ¡Hola! Soy Arón Díaz tengo 23 años.
 
-<img src="https://res.cloudinary.com/dx3hcqjmv/image/upload/v1705349352/p5mls89yja3mrxg2tvq2.png">
+<img src="https://res.cloudinary.com/dx3hcqjmv/image/upload/v1705349685/t4np0bni6qtnxcm9fxp4.png">
 
 Actualmente me encuentro aprendiendo y mejorando mis bases en la programación con JavaScript de manera autodidacta, el próximo año voy a empezar una tecnicatura relacionada a la programación.
 Tengo conocimientos en HTML, CSS, JavaScript, React, Next.js, Tailwind, SASS.
