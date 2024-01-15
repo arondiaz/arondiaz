@@ -1,4 +1,4 @@
-¡Hola! Soy Arón Díaz tengo 23 años.
+<h1>¡Hola! Soy Arón Díaz</h1>
 
 <img src="https://res.cloudinary.com/dx3hcqjmv/image/upload/v1705349685/t4np0bni6qtnxcm9fxp4.png">
 
