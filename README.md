@@ -3,7 +3,7 @@
 <img src="https://res.cloudinary.com/dx3hcqjmv/image/upload/v1705349685/t4np0bni6qtnxcm9fxp4.png">
 
 <h4>Actualmente me encuentro aprendiendo y mejorando mis bases en la programación con JavaScript de manera autodidacta, el próximo año voy a empezar una tecnicatura relacionada a la programación.
-Tengo conocimientos en: 
+</br>Tengo conocimientos en: 
   HTML, 
   CSS, 
   JavaScript, 
