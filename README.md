@@ -2,10 +2,11 @@
 
 <img src="https://res.cloudinary.com/dx3hcqjmv/image/upload/v1705349685/t4np0bni6qtnxcm9fxp4.png">
 
-<h4>Actualmente me encuentro estudiando una Tecnicatura en la UTN de Santa Fe (TUTI) y realizando cursos de JavaScript, React, patrones de diseño.
+<h2>Actualmente me encuentro estudiando una Tecnicatura en la UTN de Santa Fe (TUTI) y realizando cursos de JavaScript, React, patrones de diseño.
 Cuento con nivel de Inglés B1, realicé una capacitación en la empresa MiracleDevs y prácticas en NoCountry en entornos controlados.
 
-</br>Tengo conocimientos en: 
+</br>
+Tengo conocimientos en: 
   HTML, 
   CSS, 
   JavaScript,  
@@ -17,7 +18,7 @@ Cuento con nivel de Inglés B1, realicé una capacitación en la empresa Miracle
   
 Además soy Piloto Comercial de Helicópteros con habilitación a vuelo nocturno (local) y Piloto Privado de Avión..
 
-</h4>
+</h2>
 
 <h3>Visita mi web personal: https://arondiaz.vercel.app/</h3>
 
