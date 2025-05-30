@@ -24,7 +24,7 @@
 </p>
 
 <h2> Visita mi web:</h2>
-<p><a href="https://arondiaz.vercel.app/" target="_blank">https://arondiaz.vercel.app/</a></p>
+<p><a href="https://aronmyspace.vercel.app/" target="_blank">https://aronmyspace.vercel.app/</a></p>
 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arondiaz&theme=dark&hide_border=true)<br/>
